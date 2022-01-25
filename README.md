@@ -24,6 +24,6 @@ In a terminal, run the following commands:
 
 In an admin terminal, run the following command (replacing `<path-to-your-installation>` with the directory path containing your cloned `blender-wow-studio` folder:
 - `mklink /J "C:\Program Files\Blender Foundation\Blender 3.0\3.0\scripts\addons\io_scene_wmo" "<path-to-your-installation>\blender-wow-studio\io_scene_wmo"`
-- Open blender and enable the `blender-wow-studio` addon.
+- Open blender and enable the `WoW Blender Studio` addon.
 
 _(Idk if there's a better way to do the last part, that's just what I do lol)_
