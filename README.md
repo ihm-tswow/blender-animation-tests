@@ -15,7 +15,7 @@ I don't publish binaries while this is in develoment, so you need to build it fr
 - python 3.9.7 (must be your default system version, `python --version` should give output `Python 3.9.7`)
 - Cython and wheel packages (`pip install Cython wheel`)
 
-## Install
+### Install
 In a terminal, run the following commands:
 - `git clone --recurse-submodules https://gitlab.com/ihm-tswow/blender-wow-studio`
 - `cd blender-wow-studio/io_scene_wmo`
