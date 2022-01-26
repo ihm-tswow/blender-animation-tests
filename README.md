@@ -6,6 +6,12 @@ Test repository for blender animations.
 
 [pywowlib fork](https://github.com/ihm-tswow/pywowlib)
 
+## Current Status
+
+**This is not even close to ready for actually exporting real animations**
+
+- ✔️ Rotating a simple bone pointing up with no roll value.
+
 ## Installation
 I don't publish binaries while this is in develoment, so you need to build it from source. This is how I do it on windows.
 
